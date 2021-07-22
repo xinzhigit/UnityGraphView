@@ -1,0 +1,9 @@
+
+*.sln
+*.csproj
+Library
+Logs
+obj
+Temp
+.idea/.idea.GraphView/.idea/encodings.xml
+.idea/.idea.GraphView/.idea/indexLayout.xml
